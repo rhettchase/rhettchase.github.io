@@ -1,2 +1,3 @@
-# rhettchase.github.io
-MSSA site
+# Hello World!
+
+My name is Rhett Chase
